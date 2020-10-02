@@ -1,2 +1,2 @@
 # Computer-Graphics
-Learning notes
+Still learning, always learning.
